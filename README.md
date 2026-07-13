@@ -1,10 +1,10 @@
 # Fiscal Transfers and Sectoral Employment in Japan (1995–1998)
 
-Master's thesis project — Hiroshima University, Graduate School of Humanities and Social Sciences, International Economic Development Program (2024–2025)
+Master's thesis project, Hiroshima University, Graduate School of Humanities and Social Sciences, International Economic Development Program (2024–2025)
 
 ## Overview
 
-This study estimates the **causal effect of fiscal transfers on sectoral employment composition** across Japanese municipalities in the mid-1990s. Main question: did Japan's Local Allocation Tax (LAT)  — helped to shift employment to more profitable sectors?
+This study estimates the **causal effect of fiscal transfers on sectoral employment composition** across Japanese municipalities in the mid-1990s. Main question: did Japan's Local Allocation Tax (LAT) helped to shift employment to more profitable sectors?
 
 The key methodological challenge is endogeneity: municipalities receiving more transfers tend to be economically weaker, making OLS estimates biased. This study addresses the problem using an **instrumental variable (IV) strategy**.
 
@@ -59,7 +59,6 @@ The instrument exploits the fact that overrepresented municipalities secured lar
 -Overall, the project shows that government funding may have influenced which industries people worked in, but the evidence is not strong enough to say this with complete confidence.
 
 ## Data Sources
-
 
 - "Distributive Politics and Crime" Masataka Harada and Daniel M. Smith
 - Statistic Berou of Japan
