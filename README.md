@@ -48,6 +48,15 @@ The instrument exploits the fact that overrepresented municipalities secured lar
 
 - **Language:** R
 - **Key packages:** `fixest` , `modelsummary`,  `tidyverse`, `haven`, `gt`, `flextable`
+  
+## Key Finding
+-The results suggest that when local governments received more money from the central government, employment tended to increase in agriculture and decrease in manufacturing.
+-As an example, the model estimates that if Sapporo had received an extra ¥10,000 per person, around 12,000 more people would have worked in agriculture, while a similar number would have left manufacturing.
+-However, there is a high level of uncertainty, so these numbers should be treated as an estimate rather than a proven fact.
+-One reason may be that people do not change jobs overnight. Labor markets usually need several years to adjust to new government policies.
+-Another possible reason is that agriculture had strong political support in Japan during the 1990s, which may have influenced how government money was distributed.
+-The study also suggests that rural areas had more political influence than their population size would normally justify, which could have affected where government funding went.
+-Overall, the project shows that government funding may have influenced which industries people worked in, but the evidence is not strong enough to say this with complete confidence.
 
 ## Data Sources
 
@@ -67,7 +76,6 @@ MASTERS.xlsx    # Municipal-level panel dataset (not included — contact author
 ## Author
 
 Mateusz Piesiak  
-M. Logistics and Transportation, University of Gdansk
 Graduate School of Humanities and Social Sciences, International Economic Development Program, Hiroshima University 
 [LinkedIn](linkedin.com/in/mateusz-piesiak-aa964124b) · [Email](mailto: mateusz.pie321@gmail.com)
 
